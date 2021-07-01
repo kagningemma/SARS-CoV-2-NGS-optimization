@@ -4,7 +4,7 @@ The file 'SARS-CoV-2-MiNion-2.ipynb' contains the scripts for data analysis of n
 A manuscript containing results from the experimental study comparing both ARTIC-protocols is under preparation. <hr>
 
 The required softwares
-[are in the ARTIC bioinforatic protocol](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html)
+[are in the website hosting ARTIC bioinforatic protocol](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html)
 
 1. Guppy
 2. Samtools 1.10
